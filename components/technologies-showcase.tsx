@@ -1,6 +1,8 @@
 "use client"
 
-import { motion } from "framer-motion"
+
+
+import { motion } from "framer-motion";
 import { useState } from "react"
 import {
   Code2,
@@ -148,8 +150,9 @@ export default function TechnologiesShowcase() {
               key={i}
               className="absolute w-2 h-2 bg-blue-400/20 rounded-full"
               animate={{
-                x: [Math.random() * window.innerWidth, Math.random() * window.innerWidth],
-                y: [Math.random() * window.innerHeight, Math.random() * window.innerHeight],
+               x: typeof window !== 'undefined' ? [Math.random() * window.innerWidth, Math.random() * window.innerWidth] : [0, 0],
+y: typeof window !== 'undefined' ? [Math.random() * window.innerHeight, Math.random() * window.innerHeight] : [0, 0],
+
               }}
               transition={{
                 duration: Math.random() * 10 + 10,
