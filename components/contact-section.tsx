@@ -34,7 +34,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="text-white font-semibold text-lg">Email</p>
-                  <p className="text-slate-400 font-light">hello@asikur.dev</p>
+                  <p className="text-slate-400 font-light">alifahmed21341@gmail.com</p>
                 </div>
               </div>
 
@@ -44,7 +44,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="text-white font-semibold text-lg">Phone</p>
-                  <p className="text-slate-400 font-light">+1 (555) 123-4567</p>
+                  <p className="text-slate-400 font-light">+0 (177) 44-28318</p>
                 </div>
               </div>
 
@@ -54,7 +54,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="text-white font-semibold text-lg">Location</p>
-                  <p className="text-slate-400 font-light">Dhaka, Bangladesh</p>
+                  <p className="text-slate-400 font-light">Rajshahi, Bangladesh</p>
                 </div>
               </div>
             </div>
@@ -106,7 +106,7 @@ export function ContactSection() {
           </div>
         </div>
       </div>
-      <p className="text-slate-400 text-sm font-light">hello@asikur.dev</p>
+      <p className="text-slate-400 text-sm font-light">alifahmed21341@gmail.com</p>
     </section>
   )
 }

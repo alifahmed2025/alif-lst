@@ -286,7 +286,7 @@ const animationRef = useRef<number | null>(null)
 
         {/* Main Heading */}
         <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold text-white mb-8 leading-[0.9] tracking-tight">
-          Hi, I'm Asikur Rahman
+          Hi, I'm MUJAHID ALI
           <br />
           <span className="text-slate-400">I Build Modern Web Experiences</span>
         </h1>

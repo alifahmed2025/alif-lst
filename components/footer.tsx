@@ -24,7 +24,7 @@ export function Footer() {
 
                 </span>
               </div>
-              <span className="text-white font-semibold text-xl">Asikur</span>
+              <span className="text-white font-semibold text-xl">Mujahid</span>
             </Link>
             <p className="text-slate-400 text-sm leading-relaxed font-light">
               Full-stack developer passionate about creating exceptional digital experiences.
@@ -102,13 +102,13 @@ export function Footer() {
                 <Mail className="w-5 h-5 text-slate-400 hover:text-blue-400" />
               </a>
             </div>
-            <p className="text-slate-400 text-sm font-light">hello@asikur.dev</p>
+            <p className="text-slate-400 text-sm font-light">alifahmed21341@gmail.com</p>
           </div>
         </div>
 
         <div className="border-t border-slate-800/50 mt-12 pt-8 text-center">
           <p className="text-slate-400 text-sm font-light">
-            © 2024 Asikur. All rights reserved. Built with Next.js and Tailwind CSS.
+            © 2024 Mujahid. All rights reserved. Built with Next.js and Tailwind CSS.
           </p>
         </div>
       </div>

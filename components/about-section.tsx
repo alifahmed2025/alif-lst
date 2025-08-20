@@ -85,7 +85,7 @@ export function AboutSection() {
                 <div className="relative w-48 h-48 mx-auto mb-6">
                   <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full opacity-20 blur-xl animate-pulse"></div>
                   <img
-                    src="/asikmama.jpg"
+                    src="/alifportfolieo.png"
                     alt="Asikur - Full Stack Developer"
                     className="relative w-full h-full object-cover rounded-full border-2 border-slate-600 shadow-xl hover:scale-105 transition-transform duration-300"
                   />
@@ -94,13 +94,13 @@ export function AboutSection() {
 
                 {/* Personal Info */}
                 <div className="text-center mb-6">
-                  <h3 className="text-2xl font-bold text-white mb-2">Asikur Rahman</h3>
+                  <h3 className="text-2xl font-bold text-white mb-2">Mujahid Ali</h3>
                   <p className="text-blue-400 font-medium mb-4">Full-Stack Developer</p>
 
                   <div className="space-y-3 text-sm text-slate-400">
                     <div className="flex items-center justify-center space-x-2">
                       <Palette className="w-4 h-4" />
-                      <span>Dhaka, Bangladesh</span>
+                      <span>Rajshahi, Bangladesh</span>
                     </div>
                     <div className="flex items-center justify-center space-x-2">
                       <Clock className="w-4 h-4" />
@@ -108,7 +108,7 @@ export function AboutSection() {
                     </div>
                     <div className="flex items-center justify-center space-x-2">
                       <Heart className="w-4 h-4" />
-                      <span>hello@asikur.dev</span>
+                      <span>alifahmed21341@gmail.com</span>
                     </div>
                   </div>
                 </div>
@@ -155,7 +155,7 @@ export function AboutSection() {
                     <h3 className="text-3xl font-bold text-white mb-6">My Journey</h3>
                     <div className="space-y-6 text-lg text-slate-300 leading-relaxed">
                       <p className="font-mono text-lg">
-                        Hello! I'm Asikur, a passionate full-stack developer based in Dhaka, Bangladesh. My journey
+                        Hello! I'm Mujahid, a passionate full-stack developer based in Dhaka, Bangladesh. My journey
                         into the world of web development began during my university years when I discovered the magic
                         of turning ideas into interactive digital experiences.
                       </p>

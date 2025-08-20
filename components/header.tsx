@@ -26,7 +26,7 @@ export function Header() {
       />
       </span>
             </div>
-            <span className="text-white font-serif text-xl">Asikur</span>
+            <span className="text-white font-serif text-xl">Mujahid</span>
           </Link>
 
           {/* Desktop Navigation */}
